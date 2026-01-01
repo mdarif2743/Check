@@ -11,23 +11,23 @@ http://103.140.254.2:3500/live/146.m3u8
 http://103.140.254.2:3500/live/164.m3u8
 
 
-#EXTINF:-1,AJ TAK HINDI
+#EXTINF:-1,AJ TAK NEWS HINDI 📰 
 http://103.140.254.2:3500/live/173.m3u8
-#EXTINF:-1,APB HINDI
+#EXTINF:-1,ABP NEWS HINDI 📰 
 http://103.140.254.2:3500/live/177.m3u8
-#EXTINF:-1,B4U MOVIES
+#EXTINF:-1,B4U MOVIES 🎥 
 http://103.140.254.2:3500/live/182.m3u8
 #EXTINF:-1,B4U MUSIC 🎵 
 http://103.140.254.2:3500/live/183.m3u8
-B4u music
+#EXTINF:-1,CNBC 📰 HINDI
 http://103.140.254.2:3500/live/190.m3u8
-Cnbc hindi
+#EXTINF:-1,CNN 📰 ENGLISH
 http://103.140.254.2:3500/live/193.m3u8
-Cnn eng
+#EXTINF:-1,DD NATIONAL
 http://103.140.254.2:3500/live/202.m3u8
-Dd national
+#EXTINF:-1,DD SPORTS
 http://103.140.254.2:3500/live/204.m3u8
-Dd sports
+
 http://103.140.254.2:3500/live/231.m3u8
 News 18 hindi
 http://103.140.254.2:3500/live/235.m3u8
