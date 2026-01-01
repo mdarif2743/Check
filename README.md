@@ -4,10 +4,10 @@ http://103.140.254.2:3500/live/143.m3u8
 #EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="Indian ENT",Colors HD
 http://103.140.254.2:3500/live/144.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" HISTORY TV ENGLISH
+#EXTINF:-1 tvg-logo="" group-title=" ,HISTORY TV ENGLISH
 http://103.140.254.2:3500/live/146.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=" TRAVEL XP ENGLISH
+#EXTINF:-1 tvg-logo="" group-title=" ,TRAVEL XP ENGLISH
 http://103.140.254.2:3500/live/164.m3u8
 
 
