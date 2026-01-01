@@ -166,91 +166,94 @@ http://103.140.254.2:3500/live/919.m3u8
 http://103.140.254.2:3500/live/950.m3u8
 #EXTINF:-1,SONY LIV
 http://103.140.254.2:3500/live/979.m3u8
-
+#EXTINF:-1, CARTOON NETWORK PLUS
 http://103.140.254.2:3500/live/1079.m3u8
-Cn plus
+#EXTINF:-1, STAR SPORTS KHEL
 http://103.140.254.2:3500/live/1275.m3u8
-Star sports khel
+#EXTINF:-1, STAR SPORTS 2 HINDI
 http://103.140.254.2:3500/live/1984.m3u8
 http://103.140.254.2:3500/live/1985.m3u8
-Star sports 2 Hindi
+#EXTINF:-1,SONY MAX 1
 http://103.140.254.2:3500/live/3418.m3u8
-Sony max 1
+#EXTINF:-1,SONY YAY BANGLA
 http://103.140.254.2:3500/live/3424.m3u8
-Sony yay Bangla
+#EXTINF:-1, DISCOVERY HD BANGLA
 http://103.140.254.2:3500/live/3428.m3u8
-Discovery hd Bangla
+#EXTINF:-1, DISCOVERY HD MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/3431.m3u8
-Discovery hd multiple
+#EXTINF:-1,ID HD MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/3434.m3u8
-Id hd multiple 
+#EXTINF:-1, CARTOON NETWORK HD MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/3436.m3u8
-Cn hd multiple
+#EXTINF:-1,RD TIPURA
 http://103.140.254.2:3500/live/3443.m3u8
-Rd tipura
+#EXTINF:-1, ANIMAL PLANET HD MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/3451.m3u8
-Animal planet hd multiple
+#EXTINF:-1, DISCOVERY SCIENCE MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/3453.m3u8
-Discovery science multiple
+#EXTINF:-1,TLC HD MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/3458.m3u8
-Tlc hd multiple
+#EXTINF:-1,NH BOLLY GOLD
 http://103.140.254.2:3500/live/3338.m3u8
-Nh bolly gold 
+#EXTINF:-1,NH BOLLY FILX
 http://103.140.254.2:3500/live/3336.m3u8
-Nh bolly filx
+#EXTINF:-1,MON BANGLA
 http://103.140.254.2:3500/live/3298.m3u8
-Mon bangla
+#EXTINF:-1,AMAR DIGITAL
 http://103.140.254.2:3500/live/3297.m3u8
-Amar digital
+#EXTINF:-1, NATION NE
 http://103.140.254.2:3500/live/3268.m3u8
-Nation ne
+#EXTINF:-1,SONY LIV
 http://103.140.254.2:3500/live/3245.m3u8
-Sony liv
+#EXTINF:-1,HI DOST
 http://103.140.254.2:3500/live/1232.m3u8
-Hi dost
+#EXTINF:-1, KALKATA TV
 http://103.140.254.2:3500/live/1264.m3u8
-Kalkata tv
+#EXTINF:-1, EUROSPORT SD
 http://103.140.254.2:3500/live/1294.m3u8
-Eurosport sd
+#EXTINF:-1,B4U KADAK
+live/1450.m3u8
 http://103.140.254.2:3500/live/1295.m3u8
-B4u kadak
+#EXTINF:-1, COLORS INFINITY
 http://103.140.254.2:3500/live/1325.m3u8
-Colors infinity 
+#EXTINF:-1,RT NEWS
 http://103.140.254.2:3500/live/1338.m3u8
-Rt news
+#EXTINF:-1,NICK BANGLA
 http://103.140.254.2:3500/live/1341.m3u8
-Nick Bangla
+#EXTINF:-1, SONIC BANGLA
 http://103.140.254.2:3500/live/1345.m3u8
-Sonic Bangla
+#EXTINF:-1, COLORS SD
 http://103.140.254.2:3500/live/1368.m3u8
-Colors SD
+#EXTINF:-1, COLORS BANGLA
 http://103.140.254.2:3500/live/1369.m3u8
-Colors Bangla
+#EXTINF:-1,NHK WORLD JAPAN
 http://103.140.254.2:3500/live/1405.m3u8
-Nhk world Japan
-http://103.140.254.2:3500/live/1450.m3u8
-Colors Cineplex superhits
+#EXTINF:-1, COLORS CINEPLEX SUPERHITS
+http://103.140.254.2:3500
+
+
+#EXTINF:-1,BALLE BALLE L
 http://103.140.254.2:3500/live/1453.m3u8
-Balle balle
+#EXTINF:-1, HISTORY TV 18 ENGLISH SD
 http://103.140.254.2:3500/live/1471.m3u8
-History tv 18 eng SD
+#EXTINF:-1, NICK HINDI
 http://103.140.254.2:3500/live/1476.m3u8
-Nick Hindi
+#EXTINF:-1, COLORS CINEPLEX HD
 http://103.140.254.2:3500/live/1477.m3u8
-Colors Cineplex hd
+#EXTINF:-1,TARA TV
 http://103.140.254.2:3500/live/1612.m3u8
-Tara tv
+#EXTINF:-1, COLORS BANGLA CINEMA
 http://103.140.254.2:3500/live/1657.m3u8
-Colors Bangla cinema
+#EXTINF:-1,SUN BANGLA SD
 http://103.140.254.2:3500/live/1669.m3u8
-Sun Bangla SD
+#EXTINF:-1,TV9 BANGLA
 http://103.140.254.2:3500/live/1735.m3u8
-Tv9 Bangla
+#EXTINF:-1,YRF music
 http://103.140.254.2:3500/live/2753.m3u8
-Yrf music
+#EXTINF:-1,R BANGLA
 http://103.140.254.2:3500/live/2780.m3u8
-R Bangla
+#EXTINF:-1,BHI CHANNEL
 http://103.140.254.2:3500/live/2914.m3u8
-BHI CHANNEL
+#EXTINF:-1,SONY LIV
 http://103.140.254.2:3500/live/3245.m3u8
-Sony liv
+
