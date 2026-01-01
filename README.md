@@ -1,149 +1,251 @@
-# Check
-
-#EXTINF:-1,Channel 3400
-http://103.140.254.2:3500/live/3400.m3u8
-#EXTINF:-1,Channel 3401
-http://103.140.254.2:3500/live/3401.m3u8
-#EXTINF:-1,Channel 3402
-http://103.140.254.2:3500/live/3402.m3u8
-#EXTINF:-1,Channel 3403
-http://103.140.254.2:3500/live/3403.m3u8
-#EXTINF:-1,Channel 3404
-http://103.140.254.2:3500/live/3404.m3u8
-#EXTINF:-1,Channel 3405
-http://103.140.254.2:3500/live/3405.m3u8
-#EXTINF:-1,Channel 3406
-http://103.140.254.2:3500/live/3406.m3u8
-#EXTINF:-1,Channel 3407
-http://103.140.254.2:3500/live/3407.m3u8
-#EXTINF:-1,Channel 3408
-http://103.140.254.2:3500/live/3408.m3u8
-#EXTINF:-1,Channel 3409
-http://103.140.254.2:3500/live/3409.m3u8
-#EXTINF:-1,Channel 3410
-http://103.140.254.2:3500/live/3410.m3u8
-#EXTINF:-1,Channel 3411
-http://103.140.254.2:3500/live/3411.m3u8
-#EXTINF:-1,Channel 3412
-http://103.140.254.2:3500/live/3412.m3u8
-#EXTINF:-1,Channel 3413
-http://103.140.254.2:3500/live/3413.m3u8
-#EXTINF:-1,Channel 3414
-http://103.140.254.2:3500/live/3414.m3u8
-#EXTINF:-1,Channel 3415
-http://103.140.254.2:3500/live/3415.m3u8
-#EXTINF:-1,Channel 3416
-http://103.140.254.2:3500/live/3416.m3u8
-#EXTINF:-1,Channel 3417
-http://103.140.254.2:3500/live/3417.m3u8
-#EXTINF:-1,Channel 3418
+#EXTINF:-1 tvg-logo="" group-title="news"CNBC TV 18
+http://103.140.254.2:3500/live/143.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" COLORS HD
+http://103.140.254.2:3500/live/144.m3u8
+Colors hd
+http://103.140.254.2:3500/live/146.m3u8
+History tv hd engi
+http://103.140.254.2:3500/live/164.m3u8
+Travel xp eng
+http://103.140.254.2:3500/live/173.m3u8
+Aj tak hindi
+http://103.140.254.2:3500/live/177.m3u8
+Apb hindi
+http://103.140.254.2:3500/live/182.m3u8
+B4u movies
+http://103.140.254.2:3500/live/183.m3u8
+B4u music
+http://103.140.254.2:3500/live/190.m3u8
+Cnbc hindi
+http://103.140.254.2:3500/live/193.m3u8
+Cnn eng
+http://103.140.254.2:3500/live/202.m3u8
+Dd national
+http://103.140.254.2:3500/live/204.m3u8
+Dd sports
+http://103.140.254.2:3500/live/231.m3u8
+News 18 hindi
+http://103.140.254.2:3500/live/235.m3u8
+India tv hindi
+http://103.140.254.2:3500/live/242.m3u8
+Discovery SD eng
+http://103.140.254.2:3500/live/248.m3u8
+MTV
+http://103.140.254.2:3500/live/250.m3u8
+Music India
+http://103.140.254.2:3500/live/258.m3u8
+http://103.140.254.2:3500/live/255.m3u8
+ND tv hindi
+http://103.140.254.2:3500/live/279.m3u8
+Colors restey
+http://103.140.254.2:3500/live/286.m3u8
+Animal planet hd eng
+http://103.140.254.2:3500/live/440.m3u8
+9x jalwa
+http://103.140.254.2:3500/live/441.m3u8
+9x jakax
+http://103.140.254.2:3500/live/463.m3u8
+Discovery hd eng
+http://103.140.254.2:3500/live/464.m3u8
+Zee 24 gonta Bangla
+http://103.140.254.2:3500/live/479.m3u8
+Tlc multiple
+http://103.140.254.2:3500/live/482.m3u8
+Colors Cineplex SD
+http://103.140.254.2:3500/live/486.m3u8
+Bujpuri cinema
+http://103.140.254.2:3500/live/492.m3u8
+CNN news 18
+http://103.140.254.2:3500/live/493.m3u8
+India today eng
+http://103.140.254.2:3500/live/494.m3u8
+Al Jazeera
+http://103.140.254.2:3500/live/495.m3u8
+News x
+http://103.140.254.2:3500/live/496.m3u8
+Dw
+http://103.140.254.2:3500/live/499.m3u8
+News nation hindi
+http://103.140.254.2:3500/live/501.m3u8
+News 24 hindi 
+ http://103.140.254.2:3500/live/520.m3u8
+Sansad tv 2 hd
+http://103.140.254.2:3500/live/522.m3u8
+Sansad 1 hd
+http://103.140.254.2:3500/live/527.m3u8
+Discovery id
+http://103.140.254.2:3500/live/535.m3u8
+Ab damal
+http://103.140.254.2:3500/live/541.m3u8
+Discovery turbo eng
+http://103.140.254.2:3500/live/544.m3u8
+Nick jr multiple
+http://103.140.254.2:3500/live/545.m3u8
+Nick multiple
+http://103.140.254.2:3500/live/551.m3u8
+Sony entertainment hd
+http://103.140.254.2:3500/live/554.m3u8
+Discovery kid multiple
+http://103.140.254.2:3500/live/559.m3u8
+Pogo multiple
+http://103.140.254.2:3500/live/560.m3u8
+Good times hindi
+http://103.140.254.2:3500/live/562.m3u8
+Travel XP multiple
+http://103.140.254.2:3500/live/566.m3u8
+Animal planet SD multiple
+http://103.140.254.2:3500/live/568.m3u8
+Discovery since
+http://103.140.254.2:3500/live/571.m3u8
+Tlc SD multiple
+http://103.140.254.2:3500/live/573.m3u8
+Discovery Bangla SD
+http://103.140.254.2:3500/live/575.m3u8
+Discovery SD multiple
+http://103.140.254.2:3500/live/578.m3u8
+History tv 18 hindi
+http://103.140.254.2:3500/live/587.m3u8
+9xm
+http://103.140.254.2:3500/live/591.m3u8
+E24
+http://103.140.254.2:3500/live/623.m3u8
+Rang Bangla
+http://103.140.254.2:3500/live/627.m3u8
+News 18 assam
+http://103.140.254.2:3500/live/652.m3u8
+Zee barat
+http://103.140.254.2:3500/live/656.m3u8
+News 9 eng
+http://103.140.254.2:3500/live/672.m3u8
+Abp anondo Bangla
+http://103.140.254.2:3500/live/687.m3u8
+News time Bangla
+http://103.140.254.2:3500/live/690.m3u8
+Dd Bangla
+http://103.140.254.2:3500/live/698.m3u8
+Akash 8
+http://103.140.254.2:3500/live/701.m3u8
+Dangal
+http://103.140.254.2:3500/live/717.m3u8
+News 18 Bangla
+http://103.140.254.2:3500/live/732.m3u8
+9x tassan
+http://103.140.254.2:3500/live/740.m3u8
+Sangit Bangla
+http://103.140.254.2:3500/live/756.m3u8
+Colors Bangla hd
+http://103.140.254.2:3500/live/762.m3u8
+Sony pix hd
+http://103.140.254.2:3500/live/815.m3u8
+Sonic multiple
+http://103.140.254.2:3500/live/816.m3u8
+Cn multiple
+http://103.140.254.2:3500/live/821.m3u8
+Sony BBC earth hd multiple
+http://103.140.254.2:3500/live/875.m3u8
+Eurosport
+http://103.140.254.2:3500/live/876.m3u8
+Time now world
+http://103.140.254.2:3500/live/882.m3u8
+News 11 hindi
+http://103.140.254.2:3500/live/883.m3u8
+Oscar movies Hindi
+http://103.140.254.2:3500/live/885.m3u8
+Tv 5 moned
+http://103.140.254.2:3500/live/889.m3u8
+Jio sports hd
+http://103.140.254.2:3500/live/908.m3u8
+News live Bangla
+http://103.140.254.2:3500/live/919.m3u8
+Anjan
+http://103.140.254.2:3500/live/950.m3u8
+R plus Bangla
+http://103.140.254.2:3500/live/979.m3u8
+Sony liv
+http://103.140.254.2:3500/live/1079.m3u8
+Cn plus
+http://103.140.254.2:3500/live/1275.m3u8
+Star sports khel
+http://103.140.254.2:3500/live/1984.m3u8
+http://103.140.254.2:3500/live/1985.m3u8
+Star sports 2 Hindi
 http://103.140.254.2:3500/live/3418.m3u8
-#EXTINF:-1,Channel 3419
-http://103.140.254.2:3500/live/3419.m3u8
-#EXTINF:-1,Channel 3420
-http://103.140.254.2:3500/live/3420.m3u8
-#EXTINF:-1,Channel 3421
-http://103.140.254.2:3500/live/3421.m3u8
-#EXTINF:-1,Channel 3422
-http://103.140.254.2:3500/live/3422.m3u8
-#EXTINF:-1,Channel 3423
-http://103.140.254.2:3500/live/3423.m3u8
-#EXTINF:-1,Channel 3424
+Sony max 1
 http://103.140.254.2:3500/live/3424.m3u8
-#EXTINF:-1,Channel 3425
-http://103.140.254.2:3500/live/3425.m3u8
-#EXTINF:-1,Channel 3426
-http://103.140.254.2:3500/live/3426.m3u8
-#EXTINF:-1,Channel 3427
-http://103.140.254.2:3500/live/3427.m3u8
-#EXTINF:-1,Channel 3428
+Sony yay Bangla
 http://103.140.254.2:3500/live/3428.m3u8
-#EXTINF:-1,Channel 3429
-http://103.140.254.2:3500/live/3429.m3u8
-#EXTINF:-1,Channel 3430
-http://103.140.254.2:3500/live/3430.m3u8
-#EXTINF:-1,Channel 3431
+Discovery hd Bangla
 http://103.140.254.2:3500/live/3431.m3u8
-#EXTINF:-1,Channel 3432
-http://103.140.254.2:3500/live/3432.m3u8
-#EXTINF:-1,Channel 3433
-http://103.140.254.2:3500/live/3433.m3u8
-#EXTINF:-1,Channel 3434
+Discovery hd multiple
 http://103.140.254.2:3500/live/3434.m3u8
-#EXTINF:-1,Channel 3435
-http://103.140.254.2:3500/live/3435.m3u8
-#EXTINF:-1,Channel 3436
+Id hd multiple 
 http://103.140.254.2:3500/live/3436.m3u8
-#EXTINF:-1,Channel 3437
-http://103.140.254.2:3500/live/3437.m3u8
-#EXTINF:-1,Channel 3438
-http://103.140.254.2:3500/live/3438.m3u8
-#EXTINF:-1,Channel 3439
-http://103.140.254.2:3500/live/3439.m3u8
-#EXTINF:-1,Channel 3440
-http://103.140.254.2:3500/live/3440.m3u8
-#EXTINF:-1,Channel 3441
-http://103.140.254.2:3500/live/3441.m3u8
-#EXTINF:-1,Channel 3442
-http://103.140.254.2:3500/live/3442.m3u8
-#EXTINF:-1,Channel 3443
+Cn hd multiple
 http://103.140.254.2:3500/live/3443.m3u8
-#EXTINF:-1,Channel 3444
-http://103.140.254.2:3500/live/3444.m3u8
-#EXTINF:-1,Channel 3445
-http://103.140.254.2:3500/live/3445.m3u8
-#EXTINF:-1,Channel 3446
-http://103.140.254.2:3500/live/3446.m3u8
-#EXTINF:-1,Channel 3447
-http://103.140.254.2:3500/live/3447.m3u8
-#EXTINF:-1,Channel 3448
-http://103.140.254.2:3500/live/3448.m3u8
-#EXTINF:-1,Channel 3449
-http://103.140.254.2:3500/live/3449.m3u8
-
-#EXTINF:-1,Channel 3450
-http://103.140.254.2:3500/live/3450.m3u8
-#EXTINF:-1,Channel 3451
+Rd tipura
 http://103.140.254.2:3500/live/3451.m3u8
-#EXTINF:-1,Channel 3452
-http://103.140.254.2:3500/live/3452.m3u8
-#EXTINF:-1,Channel 3453
+Animal planet hd multiple
 http://103.140.254.2:3500/live/3453.m3u8
-#EXTINF:-1,Channel 3454
-http://103.140.254.2:3500/live/3454.m3u8
-#EXTINF:-1,Channel 3455
-http://103.140.254.2:3500/live/3455.m3u8
-#EXTINF:-1,Channel 3456
-http://103.140.254.2:3500/live/3456.m3u8
-#EXTINF:-1,Channel 3457
-http://103.140.254.2:3500/live/3457.m3u8
-#EXTINF:-1,Channel 3458
+Discovery science multiple
 http://103.140.254.2:3500/live/3458.m3u8
-#EXTINF:-1,Channel 3459
-http://103.140.254.2:3500/live/3459.m3u8
-#EXTINF:-1,Channel 3460
-http://103.140.254.2:3500/live/3460.m3u8
-#EXTINF:-1,Channel 3461
-http://103.140.254.2:3500/live/3461.m3u8
-#EXTINF:-1,Channel 3462
-http://103.140.254.2:3500/live/3462.m3u8
-#EXTINF:-1,Channel 3463
-http://103.140.254.2:3500/live/3463.m3u8
-#EXTINF:-1,Channel 3464
-http://103.140.254.2:3500/live/3464.m3u8
-#EXTINF:-1,Channel 3465
-http://103.140.254.2:3500/live/3465.m3u8
-#EXTINF:-1,Channel 3466
-http://103.140.254.2:3500/live/3466.m3u8
-#EXTINF:-1,Channel 3467
-http://103.140.254.2:3500/live/3467.m3u8
-#EXTINF:-1,Channel 3468
-http://103.140.254.2:3500/live/3468.m3u8
-#EXTINF:-1,Channel 3469
-http://103.140.254.2:3500/live/3469.m3u8
-#EXTINF:-1,Channel 3470
-http://103.140.254.2:3500/live/3470.m3u8
-
-
-
-
+Tlc hd multiple
+http://103.140.254.2:3500/live/3338.m3u8
+Nh bolly gold 
+http://103.140.254.2:3500/live/3336.m3u8
+Nh bolly filx
+http://103.140.254.2:3500/live/3298.m3u8
+Mon bangla
+http://103.140.254.2:3500/live/3297.m3u8
+Amar digital
+http://103.140.254.2:3500/live/3268.m3u8
+Nation ne
+http://103.140.254.2:3500/live/3245.m3u8
+Sony liv
+http://103.140.254.2:3500/live/1232.m3u8
+Hi dost
+http://103.140.254.2:3500/live/1264.m3u8
+Kalkata tv
+http://103.140.254.2:3500/live/1294.m3u8
+Eurosport sd
+http://103.140.254.2:3500/live/1295.m3u8
+B4u kadak
+http://103.140.254.2:3500/live/1325.m3u8
+Colors infinity 
+http://103.140.254.2:3500/live/1338.m3u8
+Rt news
+http://103.140.254.2:3500/live/1341.m3u8
+Nick Bangla
+http://103.140.254.2:3500/live/1345.m3u8
+Sonic Bangla
+http://103.140.254.2:3500/live/1368.m3u8
+Colors SD
+http://103.140.254.2:3500/live/1369.m3u8
+Colors Bangla
+http://103.140.254.2:3500/live/1405.m3u8
+Nhk world Japan
+http://103.140.254.2:3500/live/1450.m3u8
+Colors Cineplex superhits
+http://103.140.254.2:3500/live/1453.m3u8
+Balle balle
+http://103.140.254.2:3500/live/1471.m3u8
+History tv 18 eng SD
+http://103.140.254.2:3500/live/1476.m3u8
+Nick Hindi
+http://103.140.254.2:3500/live/1477.m3u8
+Colors Cineplex hd
+http://103.140.254.2:3500/live/1612.m3u8
+Tara tv
+http://103.140.254.2:3500/live/1657.m3u8
+Colors Bangla cinema
+http://103.140.254.2:3500/live/1669.m3u8
+Sun Bangla SD
+http://103.140.254.2:3500/live/1735.m3u8
+Tv9 Bangla
+http://103.140.254.2:3500/live/2753.m3u8
+Yrf music
+http://103.140.254.2:3500/live/2780.m3u8
+R Bangla
+http://103.140.254.2:3500/live/2914.m3u8
+BHI CHANNEL
+http://103.140.254.2:3500/live/3245.m3u8
+Sony liv
