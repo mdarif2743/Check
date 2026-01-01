@@ -126,47 +126,47 @@ http://103.140.254.2:3500/live/672.m3u8
 http://103.140.254.2:3500/live/687.m3u8
 #EXTINF:-1,DD BANGLA
 http://103.140.254.2:3500/live/690.m3u8
-Dd Bangla
+#EXTINF:-1, AKASH 8
 http://103.140.254.2:3500/live/698.m3u8
-Akash 8
+#EXTINF:-1, DANGAL
 http://103.140.254.2:3500/live/701.m3u8
-Dangal
+#EXTINF:-1, NEWS 18 BANGLA
 http://103.140.254.2:3500/live/717.m3u8
-News 18 Bangla
+#EXTINF:-1,9X TASSAN
 http://103.140.254.2:3500/live/732.m3u8
-9x tassan
+#EXTINF:-1, SANGIT BANGLA
 http://103.140.254.2:3500/live/740.m3u8
-Sangit Bangla
+#EXTINF:-1, COLORS BANGLA HD
 http://103.140.254.2:3500/live/756.m3u8
-Colors Bangla hd
+#EXTINF:-1,SONY PIX HD
 http://103.140.254.2:3500/live/762.m3u8
-Sony pix hd
+#EXTINF:-1,SONIC MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/815.m3u8
-Sonic multiple
+#EXTINF:-1, CARTOON NETWORK MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/816.m3u8
-Cn multiple
+#EXTINF:-1,SONY BBC EARTH HD MULTIPLE LANGUAGES
 http://103.140.254.2:3500/live/821.m3u8
-Sony BBC earth hd multiple
+#EXTINF:-1, EUROSPORT
 http://103.140.254.2:3500/live/875.m3u8
-Eurosport
+#EXTINF:-1, TIME NOW WORLD 
 http://103.140.254.2:3500/live/876.m3u8
-Time now world
+#EXTINF:-1, NEWS 11 HINDI
 http://103.140.254.2:3500/live/882.m3u8
-News 11 hindi
+#EXTINF:-1, OSCAR MOVIE HINDI
 http://103.140.254.2:3500/live/883.m3u8
-Oscar movies Hindi
+#EXTINF:-1,TV 5 MONED
 http://103.140.254.2:3500/live/885.m3u8
-Tv 5 moned
+#EXTINF:-1,JIO SPORTS HD
 http://103.140.254.2:3500/live/889.m3u8
-Jio sports hd
+#EXTINF:-1, NEWS LIVE BANGLA
 http://103.140.254.2:3500/live/908.m3u8
-News live Bangla
+#EXTINF:-1,ANJAN
 http://103.140.254.2:3500/live/919.m3u8
-Anjan
+#EXTINF:-1,R PLUS BANGLA
 http://103.140.254.2:3500/live/950.m3u8
-R plus Bangla
+#EXTINF:-1,SONY LIV
 http://103.140.254.2:3500/live/979.m3u8
-Sony liv
+
 http://103.140.254.2:3500/live/1079.m3u8
 Cn plus
 http://103.140.254.2:3500/live/1275.m3u8
