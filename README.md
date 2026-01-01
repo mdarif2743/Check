@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="news"CNBC TV 18
+#EXTINF:-1 tvg-logo="" group-title="news",CNBC TV 18
 http://103.140.254.2:3500/live/143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" COLORS HD
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT" ,COLORS HD
 http://103.140.254.2:3500/live/144.m3u8
 Colors hd
 http://103.140.254.2:3500/live/146.m3u8
